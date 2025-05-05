@@ -1,0 +1,57 @@
+{
+	"labels": 
+	[
+{
+  "species": "Spizella passerina",
+  "call_type": "song",
+  "confidence": 0.84
+},
+
+{
+  "species": "Spizella passerina",
+  "call_type" "song",
+  "confidence": 0.84,
+  "behaviour":
+},
+
+{
+  "species": "unknown"
+  "call_type" "song",
+  "count" :4
+  "notes": "fighting"
+  
+}
+
+
+
+
+]
+}
+
+
+{"species": ["unknown", "myna", "koel"]}
+
+
+{
+	"labels": 
+	[
+{
+  "species": "Spizella passerina",
+  "call_type": "song",
+  "confidence": 0.84
+},
+
+{
+  "species": "Spizella passerina",
+  "call_type" "song",
+  "confidence": 0.84,
+  "behaviour":
+},
+
+{
+  "species": "unknown"
+  "call_type" "song",
+  "count" :4
+  "notes": "fighting"
+  
+}
