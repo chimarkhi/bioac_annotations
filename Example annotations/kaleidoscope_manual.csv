@@ -1,5 +1,0 @@
-File Name,Start Time (s),End Time (s),Low Frequency (kHz),High Frequency (kHz),Delta Frequency (kHz),Delta Time (s),Peak Frequency (kHz),Classification,Annotation,Cluster Name,File Path
-night_forest1.wav,10.50,10.65,18.2,45.6,27.4,0.15,32.4,,"Likely Myotis; clear pulses, no overlap",,C:\Data\night_forest1.wav
-night_forest1.wav,14.10,14.22,20.0,48.9,28.9,0.12,33.1,,Insect-like trill; discard?,,C:\Data\night_forest1.wav
-night_forest1.wav,23.34,23.52,22.1,43.2,21.1,0.18,30.2,,Echo-loc pulses spaced evenly; good signal,,C:\Data\night_forest1.wav
-night_forest2.wav,5.03,5.15,15.0,40.0,25.0,0.12,27.5,,Uncertain; check against Pipistrellus profile,,C:\Data\night_forest2.wav
